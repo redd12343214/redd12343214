@@ -24,7 +24,7 @@ I'm currently learning and experimenting with various modern architecture, infra
 ---
 
 ## 📫 Let's Connect
-| Website | LinkedIn | Twitter | Email |
+| 🌐 Website | 💼 LinkedIn | 🐦 Twitter | 📧 Email |
 |---------|----------|---------|-------|
 |[beetbud.com/peter](https://beetbud.com/peter)|[in/peter](https://www.linkedin.com/in/peter-ehigbai-633346269/)|[x/peter](https://www.linkedin.com/in/peter-ehigbai-633346269/)|[iriabijepeter@gmail.com](mailto:contact@iriabijepeter@gmail.com)
 
