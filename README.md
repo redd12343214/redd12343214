@@ -4,7 +4,7 @@ I'm a software developer with focus currently on the web and mobile platforms, I
 ---
 
 ## 🔭 Current focus and engagements
-I'm currently learning and experimenting with various modern architectures and tools to build these quality software experiences, while simultaneously building interesting projects and visions.
+I'm currently learning and experimenting with various modern architecture, infrastruture and tools used in building these quality software experiences, while simultaneously building interesting projects and visions.
 
 ---
 
