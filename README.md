@@ -12,7 +12,7 @@ I'm currently learning and experimenting with various modern architecture, infra
 - **Languages and Frameworks:** Javascript(ES6+), Typescript, React, React Native, Expo.
 - **Styling and Design:** CSS3, Tailwind CSS.
 - **Backend:** Python, Django, FastAPI, PostgreSQL, Supabase.
-- **Tools:** Git (Github, Bitbucket), Docker.
+- **Tools:** Git, Docker.
 - **Testing:** Jest, Vitest, Pytest
 
 ---
